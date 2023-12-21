@@ -11,10 +11,10 @@ import cv2
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
 
-# Load the model
+# Load the model !CHANGE THE MODEL PATH TO YOURS!
 model = load_model("/Users/fyoung24/Downloads/converted_keras (1)/keras_model.h5", compile=False)
 
-# Load the labels
+# Load the labels   !CHANGE THE LABELS PATH TO YOURS!
 class_names = open("/Users/fyoung24/Downloads/converted_keras (1)/labels.txt", "r").readlines()
 
 # Create the array of the right shape to feed into the keras model
