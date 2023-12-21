@@ -45,6 +45,7 @@ The pathname for the model and the text lables can be found in Finder on Mac. He
 
 Finally, run the program by pressing the "Run Button."
 <img width="908" alt="Screenshot 2023-12-21 at 1 57 58 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/ff7ce037-f893-4349-a03b-7376c752cdfc">
+The program should open your webcam and will run indefinitely until 'Q' is pressed.
 
 
 
