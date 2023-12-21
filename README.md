@@ -36,7 +36,12 @@ Once the model has loaded select the "Tensorflow" tab then "Keras"
 
 
 Download the trained TF model and place it in the project directory or a subdirectory, or just keep it in your downloads. 
-Update the model_path variable in the script with the correct path to the TF model:
+Update the model_path variable in the script with the correct path to the TF model. 
+<img width="855" alt="Screenshot 2023-12-21 at 2 06 04 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/d81321b7-edcb-44cb-9e4a-d6b5e76b094d">
+
+The pathname for the model and the text lables can be found in Finder on Mac. Here's a screenshot of what that looks like:
+<img width="700" alt="Screenshot 2023-12-21 at 2 04 49 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/c55f88a8-dcad-4fb7-8f04-ef2d42fd571e">
+
 
 Finally, run the program by pressing the "Run Button."
 <img width="908" alt="Screenshot 2023-12-21 at 1 57 58 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/ff7ce037-f893-4349-a03b-7376c752cdfc">
@@ -57,9 +62,10 @@ When you run the model the following message may appear:
 To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
 ```   
 **THIS IS NOT AN ERROR** the program will work fine without adressing this message at all.
+I plan upon improving the accuracy of this model and expanding the range of animals it can recognize.
 
 ###### Contributing: 
-Any improvements/optimizations are welcome. I plan on creating a more robust model and perhaps expanding the range of animals it can recognize
+Any improvements/optimizations are welcome. As I said above, I plan on creating a more robust model and perhaps expanding the range of animals it can recognize.
 
 
 
