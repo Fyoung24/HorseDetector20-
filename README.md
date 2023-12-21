@@ -21,7 +21,7 @@ Download the trained TF model and place it in the project directory or a subdire
 [Link_to_model](https://teachablemachine.withgoogle.com/models/RlqUUeVyM/)
 
 ### Versions:
-[Link to version 1 README.md file] (https://github.com/Fyoung24/HorseDetector20-/blob/main/README.md)
+[Link to version 1 README.md file](https://github.com/Fyoung24/HorseDetector20-/blob/main/README.md)
 
 ##### File Structure:
 HorseDetector.py houses the necessary code to test/run the model. Opens the built-in webcam and starts the model.
