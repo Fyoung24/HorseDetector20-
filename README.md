@@ -30,11 +30,17 @@ After the Model has trained, click "Export Model"
 <img width="331" alt="Screenshot 2023-12-21 at 12 29 51 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/cfbac56d-1b20-4777-91a2-401985dc46fa">
 
 Once the model has loaded select the "Tensorflow" tab then "Keras"
-<img width="797" alt="Screenshot 2023-12-21 at 12 16 59 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/81de9858-83d3-4ebf-a22a-068df15da4b1">
+<img width="796" alt="Screenshot 2023-12-21 at 1 35 20 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/871b8273-41b4-4a00-86cf-b50fe2d8a9ea">
+
+
 
 
 Download the trained TF model and place it in the project directory or a subdirectory, or just keep it in your downloads. 
 Update the model_path variable in the script with the correct path to the TF model:
+
+Finally, run the program by pressing the "Run Button."
+<img width="908" alt="Screenshot 2023-12-21 at 1 57 58 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/ff7ce037-f893-4349-a03b-7376c752cdfc">
+
 
 
 ### Versions:
