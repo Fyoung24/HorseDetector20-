@@ -40,6 +40,7 @@ Update the model_path variable in the script with the correct path to the TF mod
 <img width="855" alt="Screenshot 2023-12-21 at 2 06 04 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/d81321b7-edcb-44cb-9e4a-d6b5e76b094d">
 
 The pathname for the model and the text lables can be found in Finder on Mac. Here's a screenshot of what that looks like:
+
 <img width="700" alt="Screenshot 2023-12-21 at 2 04 49 PM" src="https://github.com/Fyoung24/HorseDetector20-/assets/95723225/c55f88a8-dcad-4fb7-8f04-ef2d42fd571e">
 
 
